@@ -8,7 +8,9 @@ To run the test txt I placed, run:
 To run your own problem set:
 
 Save the problem set in a txt file, line by line (test.txt)
+
 Save the expected results line by line in a separate txt file (expected.txt)
+
 Create a blank txt file for the actual results (actual.txt)
 
 Run: 
